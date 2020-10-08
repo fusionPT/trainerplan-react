@@ -2,7 +2,7 @@ import React from 'react';
 import Nav from './Nav';
 
 const Layout = (props) => (
-    <div class="bg-purple-500 border-black m-5 p-5">
+    <div class="bg-gray-200 p-20">
         {props.children}
     </div>
 )
